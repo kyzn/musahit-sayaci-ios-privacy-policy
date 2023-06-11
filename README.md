@@ -1,4 +1,12 @@
-# Gizlilik Politikası (Turkish)
+# Not (TR)
+
+Bu uygulamanın geliştiricileri veya bu uygulama, herhangi bir devlet kurumunu temsil etmemektedir.
+
+# Disclaimer (EN)
+
+The developers of this application or this application do not represent any government agency.
+
+# Gizlilik Politikası (TR)
 
 Son Güncelleme: 19 Mayıs 2023
 
@@ -31,7 +39,7 @@ Bize bilgilerinizi sağladığınız için güveninizi takdir ediyoruz, ancak bi
 Uygulamamızı kullandığınız için teşekkür ederiz!
 
 
-# Privacy Policy (İngilizce)
+# Privacy Policy (EN)
 
 Last Updated: May 19, 2023
 
